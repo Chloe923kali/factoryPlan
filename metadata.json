@@ -1,0 +1,6 @@
+{
+  "name": "工廠智慧事件管理平台",
+  "description": "為工廠廠長量身打造的 AI Agent 智慧事件指揮中心，具備四欄式事件流動追蹤、主動式 AI 助理分析與即時處置決策。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
